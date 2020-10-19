@@ -1,3 +1,5 @@
+github url: https://github.com/bojans1997/472_Assignment1
+
 How to run the program
 
 - Open Assignment1.sln using Visual Studio
