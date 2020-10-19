@@ -12,5 +12,5 @@ NOTE: If the csv files already exist, they will be overwritten with each executi
 Contributions:
 
 	- Bojan Srbinoski 40058428: Plotting distribution, 2.a, 2.d with corresponding output files for 3.
-	- Sunny Patel 40051921: 2.e, 2.f with corresponding output files for 3.
+	- Sunny Patel 40075684: 2.e, 2.f with corresponding output files for 3.
 	- Zlata Korotkova 40051921: 2.b, 2.c with corresponding output files for 3. 
