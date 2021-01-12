@@ -1,4 +1,4 @@
-github url: https://github.com/bojans1997/472_Assignment1
+Various machine learning models implemented using the Python scikit-learn framework. Models include Gaussian Naive-Bayes, Decision Tree, and Perceptron.
 
 How to run the program
 
